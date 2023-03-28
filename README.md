@@ -7,8 +7,6 @@ O código é dividido em dois arquivos:
 - `index.js`: faz a requisição HTTP e realiza o parsing dos dados recebidos;
 - `JsonParser.js`: define a classe `JsonParser`, responsável pelo parsing do JSON.
 
-Para rodar o exemplo, basta executar o comando `node index.js`. O resultado da execução será uma lista dos filmes com título, imagem e nota IMDB, presentes no arquivo JSON `TopMovies.json`, disponível neste repositório.
-
 ## Como funciona o código
 
 O arquivo `index.js` começa chama o módulo `https` e o módulo `JsonParser`. Em seguida, define a URL da API externa que será consultada. Após isso, ele consome a API retornando o Titulo, o Rating e um link com a imagem de poster do filme.
