@@ -1,6 +1,6 @@
 # Imersão Java da Alura, segunda edição. Desafio: Refazer em Node.JS
 
-## Quando a Alura anunciou que a imersão Java desse ano seria a mesma coisa do ano passado, eu fiquei triste, mas então tive a idéia de me desafiar e fazer topa a imersão em uma outra linguagem, que eu não domino no back-end, o javascript.
+## Quando a Alura anunciou que a imersão Java desse ano seria a mesma coisa do ano passado, eu fiquei triste, mas então tive a ideia de me desafiar e fazer topa a imersão em uma outra linguagem, que eu não domino no back-end, o javascript.
 
 O código é dividido em dois arquivos:
 
